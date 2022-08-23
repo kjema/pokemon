@@ -4,5 +4,7 @@
 /build/
 /public/
 /.github/
+/.codesandbox/
+/.swc/
 pnpm-lock.yaml
 yarn.lock
